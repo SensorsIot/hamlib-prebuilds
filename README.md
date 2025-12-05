@@ -1,8 +1,9 @@
 # Hamlib Pre-builds
 
 [![GitHub Actions](https://img.shields.io/badge/Built%20with-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/SensorsIot/hamlib-prebuilds/actions)
-[![License: LGPL v2.1](https://img.shields.io/badge/License-LGPL%20v2.1-blue.svg)](https://www.gnu.org/licenses/lgpl-2.1)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows)](https://github.com/SensorsIot/hamlib-prebuilds/releases)
+[![Hamlib](https://img.shields.io/badge/Hamlib-4.6.5-green?logo=radio)](https://hamlib.github.io/)
 
 Pre-built Hamlib libraries for MinGW64/MSYS2, used for building WSJT-X and WSJT-SWISS on Windows.
 
